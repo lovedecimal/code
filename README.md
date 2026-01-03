@@ -6,7 +6,7 @@
 
 ## 结果展示
 （以下是生成的计算机大模型领域论文被引量TOP10可视化图表）
-![论文被引量TOP10](论文被引量TOP10.png)
+![论文被引量TOP10]([论文被引量TOP10.png](https://github.com/lovedecimal/code/blob/main/%E8%AE%BA%E6%96%87%E8%A2%AB%E5%BC%95%E9%87%8F%20TOP10.png))
 
 
 ## 快速使用指南
