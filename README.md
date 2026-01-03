@@ -1,2 +1,16 @@
-markdown<br># PaperEra 论文爬虫与数据分析<br>## 项目简介<br>基于Python实现的论文数据可视化工具，生成计算机大模型领域高被引论文可视化图表。<br>## 结果展示<br>![论文被引量TOP10](论文被引量TOP10.png)<br>## 快速使用<br>1. 安装依赖：pip install pandas matplotlib numpy<br>2. 运行代码：python generate_fig.py<br># code
-这是我的代码库
+# PaperEra 论文爬虫与数据分析
+
+## 项目简介
+这是一个基于Python的学术论文数据工具，实现了「计算机大模型」领域论文数据的可视化分析，可快速生成高被引论文的被引量TOP10图表，帮助直观了解领域研究热点。
+
+
+## 结果展示
+（以下是生成的计算机大模型领域论文被引量TOP10可视化图表）
+![论文被引量TOP10](论文被引量TOP10.png)
+
+
+## 快速使用指南
+### 步骤1：安装依赖库
+打开命令提示符（或终端），输入以下命令并回车：
+```bash
+pip install pandas matplotlib numpy
