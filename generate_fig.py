@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 def generate_citation_top10_chart():
-    """生成计算机大模型论文被引量TOP10可视化图表（真实数据版）"""
+    """生成计算机大模型论文被引量TOP10可视化图表"""
     # 1. 全局样式配置（专业美观）
     plt.rcParams.update({
         'font.sans-serif': ['SimHei', 'WenQuanYi Micro Hei', 'Arial Unicode MS'],
@@ -100,7 +100,7 @@ def generate_citation_top10_chart():
     plt.close()
 
     print(f"✅ 真实数据版图表已保存至：{os.path.abspath(save_path)}")
-    print("💡 可直接上传到GitHub的figs目录，无需修改即可展示")
 
 if __name__ == "__main__":
+
     generate_citation_top10_chart()
